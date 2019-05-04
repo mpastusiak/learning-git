@@ -1,2 +1,3 @@
 To jest przykładowa treść pliku tekstowego!
-Drugi wiersz, dodany jako aktualizacja!
+Drugi wiersz, dodany w githubie.
+Trzeci wiersz, dodany lokalnie.
