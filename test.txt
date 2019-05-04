@@ -1,1 +1,2 @@
 To jest przykładowa treść pliku tekstowego!
+Drugi wiersz, dodany jako aktualizacja!
